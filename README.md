@@ -19,8 +19,8 @@ This application automates the process of peer-reviewing scientific papers by si
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Sandeep-10/research-paper-review.git
-   cd research-paper-review
+   git clone https://github.com/Sandeep-10/Text-to-Sql.git
+   cd Text-to-Sql
    ```
 
 2. **Install Dependencies**:
